@@ -1,7 +1,6 @@
 <h1 align="center">
-    <img alt="dt money" src="" />
-    <br>
-    dt money
+    <img alt="ignite" src="https://user-images.githubusercontent.com/75874462/130372611-22fdf443-c5c5-4dda-b47b-204a50efbb5a.jpg" /><br>
+    <img alt="dt money" src="https://user-images.githubusercontent.com/75874462/130372774-cc1401f6-282f-47ff-a9ac-97bd1916cc87.png" />    
 </h1>
 
 
@@ -13,7 +12,7 @@
 
 ## :rocket: Technologies
 
-This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
+This project was developed at the [RocketSeat Ignite Bootcamp](https://rocketseat.com.br/ignite) with the following technologies:
 
 -  [ReactJS](https://reactjs.org/)
 -  [MirageJS](https://miragejs.com/)
