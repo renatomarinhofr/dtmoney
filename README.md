@@ -3,6 +3,11 @@
     <img alt="dt money" src="https://user-images.githubusercontent.com/75874462/130372774-cc1401f6-282f-47ff-a9ac-97bd1916cc87.png" />    
 </h1>
 
+<h2 align="center">
+    <img alt="home" src="https://user-images.githubusercontent.com/75874462/130372853-284c07c6-c577-4978-9f5f-41639837f85f.png" />
+    <img alt="modal home" src="https://user-images.githubusercontent.com/75874462/130372856-89c860cb-068c-4cf9-b595-5a9e505b624f.png" />    
+</h2>
+
 
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
